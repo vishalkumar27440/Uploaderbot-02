@@ -1,11 +1,11 @@
-#🇳‌🇮‌🇰‌🇭‌🇮‌🇱‌
+#Vishal
 # Add your details here and then deploy by clicking on HEROKU Deploy button
 import os
 from os import environ
 
-API_ID = int(environ.get("API_ID", "21705770"))
-API_HASH = environ.get("API_HASH", "3791d9c01fecf028b22e2812b0c8daed")
-BOT_TOKEN = environ.get("BOT_TOKEN", "")
-OWNER = int(environ.get("OWNER", "7813618750"))
+API_ID = int(environ.get("API_ID", "21595709"))
+API_HASH = environ.get("API_HASH", "6b683b86a90c6fae0fbe50a6494bdd53")
+BOT_TOKEN = environ.get("BOT_TOKEN", "8858150387:AAEZ3-yTXvfo_vbN-sr2bkZjPqi7yFXPZ2o")
+OWNER = int(environ.get("OWNER", "8032590813"))
 #WEBHOOK = True  # Don't change this
 #PORT = int(os.environ.get("PORT", 8080))  # Default to 8000 if not set
